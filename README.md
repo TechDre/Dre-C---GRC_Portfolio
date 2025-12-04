@@ -1,5 +1,7 @@
-Dre C - GRC Portfolio
+#Dre C - GRC Portfolio
 **Cybersecurity Professional | NIST RMF | AI Security Compliance**
+
+Welcome to my GRC portfoliol
 This repository showcases my applied documentation, policy authorship, and control implementation work aligned with **FedRAMP Moderate**, **NIST SP 800-53 Rev. 5**, **NIST SP 800-171**, and **DoD cybersecurity standards.**  
 
 ---
@@ -10,14 +12,15 @@ Each folder represents a distinct compliance artifact, policy set, or technical 
 
 | Section | Description |
 |----------|--------------|
-| [📊 Risk Register]() | Example risk catalog with scoring rubric (NIST SP 800-30). |
-| [🧩 Vendor Security Questionnaire]() | Supplier risk review modeled after NIST SR and FedRAMP SA-9 controls. |
-| [🧱 Security Policies (FedRAMP Moderate)]() | Password, Access Management, and Acceptable Use policies. |
-| [🛡️ Incident Response]() | Plan outlining NIST SP 800-61r2 detection, containment, and reporting lifecycle. |
-| [📈 Continuous Monitoring]() | Monthly/quarterly POA&M, vulnerability scan, and metrics process. |
-| [🗂️ Data Classification]() | Classification matrix for CUI, PII, and internal data per DoDI 5200.48. |
-| [🧱 Vulnerability Management]() | ACAS/Defender workflow, patch validation checklist, and metrics report. |
-| [🤖 AI Compliance]() | NIST AI RMF–aligned governance: Use Policy, Risk Register, Model SOP, and Impact Assessment. |
+
+| [ Vulnerability Management]() | ACAS/Defender workflow, patch validation checklist, and metrics report. 
+| [ Risk Register]() | Example risk catalog with scoring rubric (NIST SP 800-30). |
+| [ Vendor Security Questionnaire]() | Supplier risk review modeled after NIST SR and FedRAMP SA-9 controls. |
+| [ Security Policies (FedRAMP Moderate)]() | Password, Access Management, and Acceptable Use policies. |
+| [ Incident Response]() | Plan outlining NIST SP 800-61r2 detection, containment, and reporting lifecycle. |
+| [ Continuous Monitoring]() | Monthly/quarterly POA&M, vulnerability scan, and metrics process. |
+| [ Data Classification]() | Classification matrix for CUI, PII, and internal data per DoDI 5200.48. |
+| [ AI Compliance]() | NIST AI RMF–aligned governance: Use Policy, Risk Register, Model SOP, and Impact Assessment. |
 
 ---
 
