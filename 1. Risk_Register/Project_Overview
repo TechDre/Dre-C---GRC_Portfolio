@@ -20,10 +20,10 @@ This repository is part of my larger **GRC + AI Compliance Portfolio**, showcasi
 | File | Description |
 |------|-------------|
 | **Risk_Register.xlsx** | The complete risk register (fillable). Includes likelihood, impact, scoring, and mitigation tracking. |
-| **Risk_Scoring_Guide.pdf** | A breakdown of likelihood/impact definitions based on NIST SP 800-30. |
-| **Risk_Playbook.md** | Step-by-step instructions for using the register and performing risk evaluations. |
-| **Sample_Risks.md** | Example risks for practice (access control, patching, vendor management, etc.). |
-| **POAM_Template.pdf** | A simple Plan of Action & Milestones template aligned with RMF terminology. |
+| **Risk_Scoring_Guide.pdf** | Coming Soon: A breakdown of likelihood/impact definitions based on NIST SP 800-30. |
+| **Risk_Playbook.md** | Coming Soon: Step-by-step instructions for using the register and performing risk evaluations. |
+| **Sample_Risks.md** | Coming Soon: Example risks for practice (access control, patching, vendor management, etc.). |
+| **POAM_Template.pdf** | Coming Soon: A simple Plan of Action & Milestones template aligned with RMF terminology. |
 
 ---
 
