@@ -1,8 +1,8 @@
 #Dre C - GRC Portfolio
 **Cybersecurity Professional | NIST RMF | AI Security Compliance**
 
-Welcome to my GRC portfoliol
-This repository showcases my applied documentation, policy authorship, and control implementation work aligned with **FedRAMP Moderate**, **NIST SP 800-53 Rev. 5**, **NIST SP 800-171**, and **DoD cybersecurity standards.**  
+Welcome to my GRC portfolio
+This repository showcases my applied documentation, policy authorship, and control implementation work aligned with **FedRAMP Moderate**, **NIST SP 800-53**, **NIST SP 800-171**, and **DoD RMF cybersecurity standards.**  
 
 ---
 
