@@ -1,0 +1,128 @@
+# ISO 27001 Checklist for Small Businesses  
+As a cybersecurity professional just starting out, I’ve learned that ISO 27001 isn’t about making things complicated. It’s also about helping small businesses stay organized and protected. Below you will see a simple checklist you can follow to begin building a solid Information Security Management System (ISMS).
+
+---
+
+## 1. Get Leadership Onboard
+Before anything else, your leadership team needs to support the process.
+
+- [ ] Make sure management agrees that improving security is a priority.  
+- [ ]  Set aside basic resources (time, budget, and people).  
+- [ ] Pick a small team from different areas of the business to help manage the security program.  
+
+---
+
+## 2. Define the Scope  
+Decide what parts of the business you want the ISMS to cover.
+
+- [ ]  Identify which systems, tools, data, or departments are included.  
+- [ ]  Document the boundaries clearly so everyone understands what is in—and out—of scope.
+
+---
+
+## 3. Understand Your Risks  
+This step helps you figure out *what could go wrong* and how to reduce those risks.
+
+- [ ]  List the information your business relies on (customer data, financial info, systems, etc.).  
+- [ ]  Identify threats and vulnerabilities that could impact the business.  
+- [ ]  Choose practical controls to reduce or manage those risks.
+
+---
+
+## 4. Create Basic Security Policies  
+Policies don’t need to be complicated—they just explain “how we do security here.”
+
+- [ ]  Write policies that align with your business goals and risk level.  
+- [ ]  Make sure employees know about them and follow them.
+
+---
+
+## 5. Know Your Assets  
+Every business handles some type of sensitive information.
+
+- [ ]  Identify important assets (laptops, customer data, software tools).  
+- [ ]  Classify them by importance so you know what needs the most protection.  
+
+---
+
+## 6. Manage Access  
+Only the right people should have access to the right information.
+
+- [ ]  Set rules for how accounts and permissions are handled.  
+- [ ]  Make sure employees only access what they need to do their job.
+
+---
+
+## 7. Train Your Team  
+Even the best controls fail if people don’t understand them.
+
+- [ ]  Provide simple, ongoing security awareness training.  
+- [ ]  Help employees learn how to spot phishing, protect passwords, and report concerns.
+
+---
+
+## 8. Prepare for Security Incidents  
+If something goes wrong, you should know exactly what to do.
+
+- [ ]  Create an incident response plan with clear steps.  
+- [ ]  Assign who handles what during an incident.
+
+---
+
+## 9. Build a Continuity Plan  
+Your business should be able to keep operating—even during a disruption.
+
+- [ ]  Develop basic business continuity and disaster recovery plans.  
+- [ ]  Test them occasionally to make sure they work.
+
+---
+
+## 10. Review Your Vendors  
+Your security depends on the vendors you use.
+
+- [ ] Evaluate the security risks of third-party providers.  
+- [ ] Include security expectations in your contracts or agreements.
+
+---
+
+## 11. Monitor and Review  
+Security isn’t “set it and forget it.”
+
+- [ ]  Set up simple processes to check whether your controls are working.  
+- [ ]  Adjust as technology or your business environment changes.
+
+---
+
+## 12. Internal Audit  
+This step helps you understand where improvements are needed.
+
+- [ ] Perform periodic internal audits to check compliance with ISO 27001.  
+- [ ] Document what you find and fix any issues.
+
+---
+
+## 13. Management Review  
+Leadership should stay involved.
+
+- [ ] Review how well the ISMS is working.  
+- [ ] Identify improvements or missing areas.  
+
+---
+
+## 14. Certification (Optional)  
+If you want to become officially ISO 27001 certified:
+
+- [ ] Gather documentation and evidence of your compliance.  
+- [ ] Work with a certification body when you’re ready.
+
+---
+
+## 15. Continuous Improvement  
+ISO 27001 is an ongoing process—not a one-time project.
+
+- [ ] Regularly update your ISMS based on new risks, new tools, or business changes.  
+- [ ] Keep improving your security posture over time.
+
+---
+
+By following this simplified checklist, small businesses can build a strong foundation for ISO 27001 without feeling overwhelmed. My goal is to make cybersecurity more approachable and help you take practical steps toward protecting your business.
