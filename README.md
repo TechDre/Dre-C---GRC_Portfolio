@@ -13,8 +13,8 @@ Each folder represents a distinct compliance artifact, policy set, or technical 
 | Section | Description |
 |----------|--------------|
 | [ Risk Register]() | Example risk catalog with scoring rubric (NIST SP 800-30). |
-| [ Vendor Security Questionnaire]() | Supplier risk review modeled after NIST SR and FedRAMP SA-9 controls. |
-| [ Vulnerability Management]() | ACAS/Defender workflow, patch validation checklist, and metrics report. | 
+| [ Vendor Security Questionnaire]() | Supplier risk review modeled after NIST SP and FedRAMP SA-9 controls. |
+| [ Implementing ISO 27001]() | ACAS/Defender workflow, patch validation checklist, and metrics report. | 
 | [ Security Policies (FedRAMP Moderate)]() | Password, Access Management, and Acceptable Use policies. |
 | [ Incident Response]() | Plan outlining NIST SP 800-61r2 detection, containment, and reporting lifecycle. |
 | [ Continuous Monitoring]() | Monthly/quarterly POA&M, vulnerability scan, and metrics process. |
