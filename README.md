@@ -14,7 +14,7 @@ Each folder represents a distinct compliance artifact, policy set, or technical 
 |----------|--------------|
 | [ Risk Register]() | Example risk catalog with scoring rubric (NIST SP 800-30). |
 | [ Vendor Security Questionnaire]() | Supplier risk review modeled after NIST SP and FedRAMP SA-9 controls. |
-| [ Implementing ISO 27001]() | ACAS/Defender workflow, patch validation checklist, and metrics report. | 
+| [ Implementing ISO 27001]() | The ISO 27000 series is a family of international standards designed to help organizations protect their information in a structured and effective way. For small businesses, implementing security standards can feel overwhelming, but the ISO 27000 framework breaks it down into manageable, practical steps. | 
 | [ Security Policies (FedRAMP Moderate)]() | Password, Access Management, and Acceptable Use policies. |
 | [ Incident Response]() | Plan outlining NIST SP 800-61r2 detection, containment, and reporting lifecycle. |
 | [ Continuous Monitoring]() | Monthly/quarterly POA&M, vulnerability scan, and metrics process. |
