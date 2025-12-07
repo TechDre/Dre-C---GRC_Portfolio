@@ -1,0 +1,58 @@
+Vendor Security Questionnaire
+Below is our Vendor Security Questionnaire, aligned with NIST 800-53 security standards. Please answer all questions as accurately and honestly as possible. If a question does not apply to your organization, mark it as N/A and provide a short explanation when helpful.
+If any of your security controls are still in development, please indicate that as well so we can understand your current roadmap.
+When available, please include supporting documents such as security policies, incident response plans, business continuity documentation, or any certifications your organization maintains.
+____________________________________________________________________________________
+Name: 
+Email: 
+Phone Number:
+
+1.	Do you have a formal information security program?
+
+2.	Do you know what security frameworks you follow?
+
+3.	Are you SOC 2 or ISO 27001 Certified? (Evidence: certificate or audit report)
+
+4.	Do you have a dedicated security team or point of contact with whom you work?
+
+5.	What types of customer data do you collect, store, or process? 
+
+6.	Is your infrastructure hosted on premises, in the cloud, or both?
+
+7.	If applicable, are backups stored securely off-site?
+
+8.	How do you protect physical devices that store sensitive data?
+
+9.	How is your customer’s data encrypted?
+
+10.	How long is the customer’s data retained within your company? (Evidence: log retention policy)
+
+11.	What is your data deletion process or policy? (Evidence: Policy)
+
+12.	Who has access to our data, and how is access approved?
+
+13.	Do you use Multi-Factor Authentication (MFA) for required users? (Evidence: Policy)
+
+14.	How do you manage user access and remove access for exiting or terminated employees in your company? (Evidence: Policy)
+
+15.	Do you perform regular vulnerability scanning and patching? (Provide policy or screenshots)
+
+16.	How quickly will you notify us if there is a security breach affecting our data? (Evidence: Policy)
+
+17.	Have you experienced a security incident in the last 12 months? 
+
+a.	If so, how was it resolved?
+
+18.	Do you have a business continuity or disaster recovery plan? (Evidence: Report Summary)
+a.	How often are these plans tested?
+
+19.	Do you work with any other third-party vendors that will access or process our data?
+
+20.	Do contractors or third parties receive the same security training?
+
+21.	How do you ensure compliance with data protection laws (GDPR, HIPAA, state privacy laws, etc.)?
+
+22.	Do you carry cyber liability insurance? (Evidence: Certificate)
+
+23.	Are you willing to sign a Data Processing Agreement (DPA)?
+Thank you for taking the time to complete our Vendor Security Questionnaire. Your responses help us understand how your organization protects the data and systems we may share during our partnership.
