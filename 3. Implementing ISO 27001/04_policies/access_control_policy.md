@@ -52,7 +52,7 @@ The organization will follow the principle of least privilege. This means users 
 
 ## Policy Review
 
-This policy will be reviewed periodically and updated as needed.
+A review cadence must be established to review the policy periodically and update it as needed.
 
 ---
 
