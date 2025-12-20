@@ -1,12 +1,12 @@
-#Access Control Policy
+# Access Control Policy
 
-##Purpose
+## Purpose
 
 The purpose of this policy is to ensure that employee access to the organization's systems and information is restricted to authorized individuals only.
 
 This helps reduce the risk of unauthorized access, data exposure, and security incidents.
 
-##Scope
+## Scope
 
 This policy applies to all employees and contractors who access the organization's systems, applications, or data.
 
