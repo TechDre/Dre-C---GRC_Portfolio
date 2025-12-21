@@ -1,0 +1,78 @@
+# Risk Management Policy
+
+## Purpose
+
+The purpose of this policy is to define how the organization identifies,
+assesses, and consistently manages information security risks.
+
+---
+
+## Scope
+
+This policy applies to all information systems, data, and business
+processes within the organization.
+
+---
+
+## What Is Risk?
+
+Risk is the possibility that a threat could exploit a vulnerability
+and negatively impact the organization’s information, systems,
+or operations.
+
+---
+
+## Risk Management Approach
+
+The organization manages risk by:
+- Understanding the business context
+- Identifying potential risks to information and systems
+- Evaluating risks based on likelihood and impact
+- Selecting appropriate actions to address identified risks
+
+---
+
+## Risk Assessment
+
+Risks are assessed using a defined methodology that considers:
+- How likely a risk is to occur
+- How much impact it would have if it occurred
+
+Risk assessments are documented in a risk register.
+
+---
+
+## Risk Treatment
+
+For each identified risk, one of the following actions is selected:
+- **Mitigate** – reduce the risk through security controls
+- **Accept** – acknowledge the risk and take no further action
+- **Transfer** – shift the risk to a third party
+- **Avoid** – eliminate the activity causing the risk
+
+---
+
+## Roles and Responsibilities
+
+- **Management** is responsible for accepting or approving risk decisions
+- **IT / Security** supports risk identification and mitigation
+- **Employees** are responsible for following security policies and reporting concerns
+
+---
+
+## Risk Review
+
+Risks are reviewed periodically and when significant changes occur,
+such as new systems, incidents, or business changes.
+
+---
+
+## Policy Review
+
+This policy will be reviewed periodically and updated as needed.
+
+---
+
+## ISO Alignment
+
+- ISO/IEC 27001 Clause 6.1 – Actions to address risks and opportunities
