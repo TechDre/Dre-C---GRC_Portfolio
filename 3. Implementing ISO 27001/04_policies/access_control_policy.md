@@ -44,9 +44,9 @@ The organization will follow the principle of least privilege. This means users 
 
 ## Roles and Responsibilities
 
-- **Management** approves access based on job role
-- **IT / Security** provisions and removes access
-- **Users** are responsible for protecting their login credentials
+- **Management** must approve access based on job role.
+- **IT / Security** is responsible for provisioning and removing access.
+- **End Users** are responsible for protecting their login credentials. 
 
 ---
 
