@@ -1,0 +1,7 @@
+## Risk Register (Example)
+
+| RISK ID NO. | RISK DESCRIPTION | SOURCE | RECURRENCE | IMPACT DESCRIPTION | IMPACT LEVEL (1-5) | PROBABILITY LEVEL (1-5) | PRIORITY LEVEL (IMPACT × PROBABILITY) | Eliminate Risk? (YES/NO) | Existing Controls | Mitigation Strategy | Owner |
+|------------|------------------|--------|------------|--------------------|--------------------|--------------------------|---------------------------------------|--------------------------|-------------------|---------------------|-------|
+| R-001 | Employee email accounts may be compromised due to phishing attacks | External threat / Human error | Frequent | Unauthorized access to email could expose sensitive information and disrupt operations | 4 | 4 | 16 | NO | Basic email filtering; password policy | Enforce MFA on email accounts and provide security awareness training | IT / Security |
+| R-002 | Users may have excessive access to internal systems beyond their job role | Process gap | Occasional | Excessive access could lead to unauthorized data access or accidental data changes | 3 | 3 | 9 | NO | Informal access approvals | Implement role-based access control and perform periodic access reviews | IT / Management |
+| R-003 | Security incidents may not be reported promptly by employees | Human error / Lack of awareness | Occasional | Delayed response could increase the impact of security incidents | 3 | 2 | 6 | NO | Informal communication | Establish incident response policy and include reporting guidance in training | IT / Security |
