@@ -1,7 +1,53 @@
-## Risk Register (Example)
+# Risk Register — Example Company (SaaS Platform)
 
-| RISK ID NO. | RISK DESCRIPTION | SOURCE | RECURRENCE | IMPACT DESCRIPTION | IMPACT LEVEL (1-5) | PROBABILITY LEVEL (1-5) | PRIORITY LEVEL (IMPACT × PROBABILITY) | Eliminate Risk? (YES/NO) | Existing Controls | Mitigation Strategy | Owner |
-|------------|------------------|--------|------------|--------------------|--------------------|--------------------------|---------------------------------------|--------------------------|-------------------|---------------------|-------|
-| R-001 | Employee email accounts may be compromised due to phishing attacks | External threat / Human error | Frequent | Unauthorized access to email could expose sensitive information and disrupt operations | 4 | 4 | 16 | NO | Basic email filtering; password policy | Enforce MFA on email accounts and provide security awareness training | IT / Security |
-| R-002 | Users may have excessive access to internal systems beyond their job role | Process gap | Occasional | Excessive access could lead to unauthorized data access or accidental data changes | 3 | 3 | 9 | NO | Informal access approvals | Implement role-based access control and perform periodic access reviews | IT / Management |
-| R-003 | Security incidents may not be reported promptly by employees | Human error / Lack of awareness | Occasional | Delayed response could increase the impact of security incidents | 3 | 2 | 6 | NO | Informal communication | Establish incident response policy and include reporting guidance in training | IT / Security |
+**Organization:** TechNova Solutions (Fictional)
+**Industry:** SaaS / Cloud Services
+**Framework:** NIST SP 800-30 Rev. 1
+**Scoring:** Likelihood × Impact (1–5 scale) | Score 15–25 = Critical, 9–14 = High, 4–8 = Medium, 1–3 = Low
+**Last Reviewed:** Q1 2026
+**Document Owner:** GRC / Security Team
+
+---
+
+## Risk Register
+
+| Risk ID | Category | Risk Description | Threat Source | Likelihood (1–5) | Impact (1–5) | Risk Score | Risk Level | Existing Controls | Mitigation Strategy | Risk Treatment | Owner | Status |
+|---------|----------|-----------------|---------------|-----------------|-------------|------------|------------|-------------------|---------------------|----------------|-------|--------|
+| R-001 | Access Control | Employee email accounts compromised via phishing | External / Human Error | 4 | 4 | 16 | Critical | Basic email filtering; password policy | Enforce MFA on all email accounts; deliver quarterly phishing awareness training | Mitigate | IT / Security | Open |
+| R-002 | Access Control | Users with excessive access privileges beyond job role | Internal Process Gap | 3 | 3 | 9 | High | Informal access approvals | Implement role-based access control (RBAC); conduct semi-annual access reviews | Mitigate | IT / Management | Open |
+| R-003 | Incident Response | Security incidents not reported promptly by employees | Human Error / Awareness Gap | 3 | 3 | 9 | High | Informal communication channels | Establish incident reporting policy; include reporting SLAs in security awareness training | Mitigate | IT / Security | Open |
+| R-004 | Patch Management | Critical system vulnerabilities not patched within SLA | Operational / Technical | 3 | 4 | 12 | High | Ad hoc patching process | Implement a formal vulnerability management program with defined patching SLAs (Critical: 72hrs, High: 7 days) | Mitigate | IT Operations | Open |
+| R-005 | Vendor / Third-Party | Third-party vendor suffers data breach exposing customer data | External | 2 | 5 | 10 | High | Basic vendor contracts | Conduct vendor risk assessments annually; require SOC 2 reports; include breach notification clauses in contracts | Mitigate | Procurement / GRC | Open |
+| R-006 | Data Protection | Sensitive customer PII transmitted without encryption | Technical | 2 | 5 | 10 | High | Partial TLS implementation | Enforce TLS 1.2+ for all data in transit; implement encryption standards policy; perform quarterly scans | Mitigate | Engineering | Open |
+| R-007 | Insider Threat | Disgruntled or departing employee exfiltrates sensitive data | Internal | 2 | 5 | 10 | High | Offboarding checklist (informal) | Formalize offboarding process; revoke all access within 24 hours of separation; enable DLP monitoring | Mitigate | HR / IT | Open |
+| R-008 | Business Continuity | Ransomware attack encrypts production systems causing extended downtime | External | 2 | 5 | 10 | High | Antivirus; basic backups | Implement offline and immutable backups; test restoration quarterly; develop and test ransomware response playbook | Mitigate | IT / Security | Open |
+| R-009 | Compliance | Failure to comply with applicable data privacy regulations (e.g., GDPR, CCPA) | Regulatory | 2 | 4 | 8 | Medium | General awareness of requirements | Conduct annual compliance gap assessment; appoint a privacy point of contact; update privacy notices | Mitigate | Legal / GRC | Open |
+| R-010 | Physical Security | Unauthorized physical access to server room or office containing sensitive data | Physical | 2 | 4 | 8 | Medium | Keyed entry to office | Implement badge access controls on server room; install security camera; maintain visitor log | Mitigate | Facilities / IT | Open |
+| R-011 | Configuration Management | Misconfigured cloud storage bucket exposes internal data publicly | Technical | 2 | 4 | 8 | Medium | Manual configuration reviews | Deploy Cloud Security Posture Management (CSPM) tooling; enforce infrastructure-as-code (IaC) standards | Mitigate | Engineering / Security | Open |
+| R-012 | Security Awareness | Employees lack knowledge of social engineering tactics | Human | 4 | 3 | 12 | High | Annual security training (ad hoc) | Deliver structured quarterly security awareness training program; track completion rates; test with simulations | Mitigate | HR / Security | Open |
+| R-013 | Password / Authentication | Weak or reused passwords across critical systems | Human | 3 | 3 | 9 | High | Basic password policy | Deploy enterprise password manager; enforce password complexity and rotation policy; enable MFA on all critical systems | Mitigate | IT / Security | Open |
+| R-014 | Audit & Logging | Insufficient logging and monitoring of privileged account activity | Technical | 2 | 4 | 8 | Medium | Basic system logs | Implement centralized SIEM logging; define alerting rules for privileged access; review logs monthly | Mitigate | IT / Security | Open |
+| R-015 | Business Continuity | Critical vendor (SaaS dependency) experiences extended outage | External | 2 | 3 | 6 | Medium | No formal continuity plan for vendor dependencies | Identify critical vendor dependencies; develop contingency plans; include uptime SLAs in contracts | Mitigate | Operations / GRC | Open |
+| R-016 | Data Retention | Data retained beyond legal or contractual obligations creating liability | Compliance | 2 | 3 | 6 | Medium | No formal retention schedule | Develop and publish a data retention schedule; automate deletion workflows where possible | Mitigate | Legal / IT | Open |
+| R-017 | Mobile / Endpoint | Unmanaged employee devices used to access corporate resources | Technical | 3 | 3 | 9 | High | No MDM solution | Deploy Mobile Device Management (MDM); enforce device encryption and remote wipe capability; update acceptable use policy | Mitigate | IT | Open |
+
+---
+
+## Risk Summary
+
+| Risk Level | Count |
+|------------|-------|
+| Critical (15–25) | 1 |
+| High (9–14) | 9 |
+| Medium (4–8) | 5 |
+| Low (1–3) | 0 |
+| **Total** | **17** |
+
+---
+
+## Notes
+
+- Risk scores are calculated as Likelihood × Impact using a 1–5 ordinal scale per NIST SP 800-30.
+- All risks are subject to re-evaluation following significant changes to the business, technology environment, or threat landscape.
+- Risks marked "Open" have accepted mitigation strategies but controls are not yet fully implemented.
+- This register should be reviewed quarterly and updated following any material security event.
